@@ -21,7 +21,7 @@
     "require": {
         "php": ">=7.3",
         "ext-json": "*",
-        "chisphefo/rialto": "^1.4.1",
+        "broadteam/rialto": "^1.4.2",
         "psr/log": "^1.1.4",
         "vierbergenlars/php-semver": "^3.0.2"
     },
